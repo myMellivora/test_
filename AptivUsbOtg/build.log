@@ -1,0 +1,89 @@
+Restriction Checker not present, skipping..
+[1mdevice/qcom/kalama/kalama.mk:504: [35mwarning: [0m[1m"BOARD_VNDK_VERSION = current, RECOVERY_SNAPSHOT_VERSION=current, RAMDISK_SNAPSHOT_VERSION=current"[0m
+/bin/ls: cannot access 'vendor/qcom/proprietary/prebuilt_HY11/target/product/kalama/BP_INCLUSION': No such file or directory
+/bin/ls: cannot access 'vendor/qcom/proprietary/prebuilt_HY11/target/product/qssi/BP_INCLUSION': No such file or directory
+/bin/ls: cannot access 'vendor/qcom/proprietary/prebuilt_HY22/target/product/kalama/BP_INCLUSION': No such file or directory
+/bin/ls: cannot access 'vendor/qcom/proprietary/prebuilt_HY22/target/product/qssi/BP_INCLUSION': No such file or directory
+[1mvendor/qcom/opensource/audio-hal/primary-hal/configs/kalama/kalama.mk:392: [35mwarning: [0m[1m"Enabling codec2.0 SW only for non-generic odm build variant"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:42: [35mwarning: [0m[1m"HW Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:54: [35mwarning: [0m[1m"HW Codec2.0 Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:132: [35mwarning: [0m[1m"QCONFIG Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:148: [35mwarning: [0m[1m"Default Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:151: [35mwarning: [0m[1m"Default Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:185: [35mwarning: [0m[1m"Qutest Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:249: [35mwarning: [0m[1m"HW Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:265: [35mwarning: [0m[1m"HW Codec2.0 Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:42: [35mwarning: [0m[1m"HW Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:54: [35mwarning: [0m[1m"HW Codec2.0 Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:132: [35mwarning: [0m[1m"QCONFIG Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:148: [35mwarning: [0m[1m"Default Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:151: [35mwarning: [0m[1m"Default Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:185: [35mwarning: [0m[1m"Qutest Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:249: [35mwarning: [0m[1m"HW Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:265: [35mwarning: [0m[1m"HW Codec2.0 Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:42: [35mwarning: [0m[1m"HW Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:54: [35mwarning: [0m[1m"HW Codec2.0 Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:132: [35mwarning: [0m[1m"QCONFIG Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:148: [35mwarning: [0m[1m"Default Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:151: [35mwarning: [0m[1m"Default Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:185: [35mwarning: [0m[1m"Qutest Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:249: [35mwarning: [0m[1m"HW Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:265: [35mwarning: [0m[1m"HW Codec2.0 Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:42: [35mwarning: [0m[1m"HW Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:54: [35mwarning: [0m[1m"HW Codec2.0 Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:132: [35mwarning: [0m[1m"QCONFIG Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:148: [35mwarning: [0m[1m"Default Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:151: [35mwarning: [0m[1m"Default Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:185: [35mwarning: [0m[1m"Qutest Enabled = true"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:249: [35mwarning: [0m[1m"HW Codec2.0 Enabled"[0m
+[1m/home/rjg857/wkspace/8538/VENDOR.13.2.9/vendor/qcom/proprietary/video/ship/video-vendor-modules.mk:265: [35mwarning: [0m[1m"HW Codec2.0 Enabled = true"[0m
+/bin/ls: cannot access 'vendor/qcom/proprietary/prebuilt_HY11/target/product/kalama/BP_INCLUSION': No such file or directory
+/bin/ls: cannot access 'vendor/qcom/proprietary/prebuilt_HY11/target/product/qssi/BP_INCLUSION': No such file or directory
+/bin/ls: cannot access 'vendor/qcom/proprietary/prebuilt_HY22/target/product/kalama/BP_INCLUSION': No such file or directory
+/bin/ls: cannot access 'vendor/qcom/proprietary/prebuilt_HY22/target/product/qssi/BP_INCLUSION': No such file or directory
+[1mbuild/make/core/soong_config.mk:227: [35mwarning: [0m[1mBOARD_PLAT_PUBLIC_SEPOLICY_DIR has been deprecated. Use SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS instead.[0m
+[1mbuild/make/core/soong_config.mk:228: [35mwarning: [0m[1mBOARD_PLAT_PRIVATE_SEPOLICY_DIR has been deprecated. Use SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS instead.[0m
+============================================
+PLATFORM_VERSION_CODENAME=REL
+PLATFORM_VERSION=13
+TARGET_PRODUCT=kalama
+TARGET_BUILD_VARIANT=userdebug
+TARGET_BUILD_TYPE=release
+TARGET_ARCH=arm64
+TARGET_ARCH_VARIANT=armv8-a-branchprot
+TARGET_CPU_VARIANT=kryo300
+TARGET_2ND_ARCH=arm
+TARGET_2ND_ARCH_VARIANT=armv8-2a
+TARGET_2ND_CPU_VARIANT=cortex-a75
+HOST_ARCH=x86_64
+HOST_2ND_ARCH=x86
+HOST_OS=linux
+HOST_OS_EXTRA=Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-Ubuntu-20.04.6-LTS
+HOST_CROSS_OS=windows
+HOST_CROSS_ARCH=x86
+HOST_CROSS_2ND_ARCH=x86_64
+HOST_BUILD_TYPE=release
+BUILD_ID=TKQ1.250214.001
+OUT_DIR=out
+PRODUCT_SOONG_NAMESPACES=vendor/qcom/opensource/commonsys/packages/apps/Bluetooth vendor/qcom/opensource/commonsys/system/bt/conf vendor/qcom/opensource/commonsys/system/bt/main
+BOARD_SUPPORTS_RAMDISK_EARLY_INIT=true
+============================================
+[  9% 1/11] regenerate globs shard 250 of 1024
+[ 18% 2/11] regenerate globs shard 741 of 1024
+[ 27% 3/11] regenerate globs shard 21 of 1024
+[ 36% 4/11] regenerate globs shard 565 of 1024
+[ 45% 5/11] regenerate globs shard 201 of 1024
+[ 54% 6/11] regenerate globs shard 764 of 1024
+[ 63% 7/11] regenerate globs shard 96 of 1024
+[ 72% 8/11] regenerate globs shard 112 of 1024
+[ 81% 9/11] regenerate globs shard 469 of 1024
+[ 90% 10/11] regenerate globs shard 581 of 1024
+No need to regenerate ninja file
+No need to regenerate ninja file
+No need to regenerate ninja file
+Starting ninja...
+FAILED: ninja: unknown target 'MODULES-IN-vendor-aptiv-AptivOTA-AptivUsbOtg'
+12:30:15 ninja failed with: exit status 1
+
+[0;31m#### failed to build some targets (44 seconds) ####[00m
+

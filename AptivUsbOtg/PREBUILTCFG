@@ -1,0 +1,3 @@
+# <module>             <type>   <partition>                      <dest-dir>
+
+#AptivUsbOtg            apk      system/priv-app/                 packages/AptivOTA/AptivUsbOtg/AptivUsbOtg.apk
